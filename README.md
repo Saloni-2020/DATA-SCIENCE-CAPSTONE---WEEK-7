@@ -37,3 +37,14 @@ Every time you save your presentation the preview is refreshed and navigated to 
 You can use code folding within the source code editor to expand and collapse slides.
 You can use the navigation menu at the bottom of the source code editor to quickly switch between slides.
 If you are looking at a slide within the preview pane you can press the Edit button on the toolbar to jump immediately to it's location in the source file.
+
+# Formatted Text
+Content within R Presentations is formatted using standard Markdown syntax (the bullets example above is one example of this syntax).
+
+If you aren't familiar with Markdown, the following resources might be helpful:
+
+Markdown Basics
+The Markdown Quick Reference available from the help menu on the source editor toolbar
+
+# R Code Chunks
+Since they are R Markdown documents, R Presentations can include R code chunks. Code chunks can be used as a means of displaying code for illustration or to actually render output into slides. Here is a simple R code chunk that will result in both the code and it's output being included in the slide:
