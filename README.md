@@ -48,3 +48,10 @@ The Markdown Quick Reference available from the help menu on the source editor t
 
 # R Code Chunks
 Since they are R Markdown documents, R Presentations can include R code chunks. Code chunks can be used as a means of displaying code for illustration or to actually render output into slides. Here is a simple R code chunk that will result in both the code and it's output being included in the slide:
+
+![image](https://user-images.githubusercontent.com/88283525/180624091-83b1d86a-4495-429e-81e3-a29e61717f8d.png)
+![image](https://user-images.githubusercontent.com/88283525/180624108-e53caaf0-0a6e-4e33-b083-287065607af7.png)
+![image](https://user-images.githubusercontent.com/88283525/180624117-8f5b4348-3112-490f-a959-1dfac3a00492.png)
+![image](https://user-images.githubusercontent.com/88283525/180624130-b75a8261-4d75-47f7-857a-d7f87a68a9eb.png)
+![image](https://user-images.githubusercontent.com/88283525/180624152-5943925e-9dad-48a1-9f07-22c81ea61476.png)
+![image](https://user-images.githubusercontent.com/88283525/180624179-4898abcf-0b5c-4215-8093-ca63f2de6007.png)
