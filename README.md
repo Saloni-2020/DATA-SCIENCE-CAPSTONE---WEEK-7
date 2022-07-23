@@ -18,4 +18,10 @@ Getting Started
 
 To create a new R Presentation you execute the New File -> R Presentation command:
 ![image](https://user-images.githubusercontent.com/88283525/180623916-b643c31d-b4d0-4eed-b9d5-5778a950d68e.png)
+
 After specifying the location to save the presentation, a new presentation will be created and a preview will show within the Presentation tab in the upper right corner of the IDE.
+
+# Slide Basics
+Slides are composed using markdown and delimited by section headings that use =============.
+
+The very first slide in a deck is the title slide. It will automatically be displayed with a larger heading (H1) and a special background color. It can also include special author and date fields. For example:
