@@ -22,22 +22,18 @@ To create a new R Presentation you execute the New File -> R Presentation comman
 After specifying the location to save the presentation, a new presentation will be created and a preview will show within the Presentation tab in the upper right corner of the IDE.
 
 # Slide Basics
+
 Slides are composed using markdown and delimited by section headings that use =============.
 
 The very first slide in a deck is the title slide. It will automatically be displayed with a larger heading (H1) and a special background color. It can also include special author and date fields. For example:
-Title Slide
-====================================
-author: John Doe
-date: February 7th, 2013
-To create a slide with bullets you simply use standard Markdown bullets:
 
-Slide 1
-====================================
-- Bullet 1
-- Bullet 2
-- Bullet 3
-Slides automatically display their titles unless title: false is specified. For example:
+![image](https://user-images.githubusercontent.com/88283525/180624011-6847b37e-a5c3-49d4-ae34-f0809aaf0a38.png)
 
-Slide 1
-====================================
-title: false
+# Editing Presentations
+
+There are a number of tools within the RStudio IDE designed to make editing presentations more productive:
+
+Every time you save your presentation the preview is refreshed and navigated to whatever slide you were editing.
+You can use code folding within the source code editor to expand and collapse slides.
+You can use the navigation menu at the bottom of the source code editor to quickly switch between slides.
+If you are looking at a slide within the preview pane you can press the Edit button on the toolbar to jump immediately to it's location in the source file.
