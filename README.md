@@ -17,3 +17,5 @@ The goal of R Presentations is to make authoring slides that make use of R code 
 Getting Started
 
 To create a new R Presentation you execute the New File -> R Presentation command:
+![image](https://user-images.githubusercontent.com/88283525/180623916-b643c31d-b4d0-4eed-b9d5-5778a950d68e.png)
+After specifying the location to save the presentation, a new presentation will be created and a preview will show within the Presentation tab in the upper right corner of the IDE.
