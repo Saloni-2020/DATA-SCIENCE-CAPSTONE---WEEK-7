@@ -25,3 +25,19 @@ After specifying the location to save the presentation, a new presentation will 
 Slides are composed using markdown and delimited by section headings that use =============.
 
 The very first slide in a deck is the title slide. It will automatically be displayed with a larger heading (H1) and a special background color. It can also include special author and date fields. For example:
+Title Slide
+====================================
+author: John Doe
+date: February 7th, 2013
+To create a slide with bullets you simply use standard Markdown bullets:
+
+Slide 1
+====================================
+- Bullet 1
+- Bullet 2
+- Bullet 3
+Slides automatically display their titles unless title: false is specified. For example:
+
+Slide 1
+====================================
+title: false
